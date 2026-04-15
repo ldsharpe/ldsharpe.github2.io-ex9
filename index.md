@@ -13,4 +13,4 @@ Do office hours improve student understanding?
 
 # Analysis
 
-<img src="imgs/output.png" alt="graph 1">
+<img src="static/imgs/output.png" alt="graph 1">
